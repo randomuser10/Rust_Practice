@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, Rust from Cargo!");
+    println!("Hello, Rust from Mayur!");
 }
